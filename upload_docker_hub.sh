@@ -4,6 +4,6 @@
 dest=ystydy/redash-nginx-bg
 
 docker build -t ${dest} .
-#docker run -e REDASH_SERVER_PORT=5000 ystydy/redash-nginx-bg
+#docker run -e REDASH_SERVER_PORT=5000 ${dest}
 docker login
 docker push ${dest}:latest
