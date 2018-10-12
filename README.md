@@ -22,7 +22,8 @@ for example
 
 |var name|desc|
 |:---|:---|
-|REDASH_SERVER_PORT|port number for redash server|
+|REDASH_HOST|host for redash server (default `localhost`)|
+|REDASH_SERVER_PORT|port number for redash server (default `5000`)|
 
 
 ## Links
