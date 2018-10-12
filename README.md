@@ -27,4 +27,4 @@ for example
 
 ## Links
 - [git](https://github.com/ys-tydy/docker-bg-redash-nginx)
-- [DockerHub](https://hub.docker.com/r/ystydy/redash-nginx-bg/builds/)
+- [DockerHub](https://hub.docker.com/r/ystydy/redash-nginx-bg/)
